@@ -106,3 +106,7 @@ BUILD SUCCESSFUL in 34s
 ```
 
 Job Run Unit Tests kết thúc với trạng thái tích xanh (Success), JUnit test thực thi qua Gradle Wrapper thành công.
+
+## 5. Ảnh chụp màn hình
+
+![Tab Actions hiển thị Job Run Unit Tests tích xanh](images/actions-run-unit-tests.png)
