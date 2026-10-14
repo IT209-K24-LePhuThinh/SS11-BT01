@@ -109,4 +109,4 @@ Job Run Unit Tests kết thúc với trạng thái tích xanh (Success), JUnit t
 
 ## 5. Ảnh chụp màn hình
 
-![Tab Actions hiển thị Job Run Unit Tests tích xanh](images/actions-run-unit-tests.png)
+![Tab Actions hiển thị Job Run Unit Tests tích xanh](image.png)
